@@ -22,8 +22,7 @@ public class Camera {
     public double getPrice() {
         return price;
     }
-// this does not work when i changed it but lets pretend it does something cause
-    //yes
+// forget it did worked!
     public int getResolution() {
         return resolution;
     }
@@ -57,3 +56,4 @@ public class Camera {
         this.resolution = resolution;
     }
 }
+// ok now i need to figure it out how to turn this into a desktop app....
